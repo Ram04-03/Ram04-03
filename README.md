@@ -4,7 +4,7 @@ DevOps & Cloud Enthusiast
 ---
 
 ### About Me
-- 🎓 **B.Tech in Computer Science and Business Systems** from *Saranathan College of Engineering, Tiruchirappalli*  
+- 🎓 **B.Tech Graduate in Computer Science and Business Systems** from *Saranathan College of Engineering, Tiruchirappalli*  
 - ☁️ Passionate about **DevOps, Cloud Infrastructure, and Testing**  
 - 🚀 Focused on building **scalable systems**, **CI/CD pipelines**
 - 🌱 **Fresher actively looking for opportunities** in *DevOps and Cloud,* and *Testing*
