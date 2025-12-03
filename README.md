@@ -12,10 +12,10 @@ DevOps & Cloud Enthusiast
 ---
 
 ### Skills
-**Languages:** Python, Java, MySQL, Shell Scripting  
-**Testing & Automation:** Selenium WebDriver, TestNG, Cucumber  
+**Languages:** Python, Java, Go, MySQL, Shell Scripting
+**Testing & Automation:** Selenium WebDriver, TestNG  
 **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
-**DevOps & Cloud Tools:** AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Git  
+**DevOps & Cloud Tools:** AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Argo CD, Git  
 
 ---
 
